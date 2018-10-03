@@ -1,2 +1,2 @@
 # Yezid206
-Mi repositorio - Yezid :-)
+Mi primer repositorio en GitHub- Yezid :-)
