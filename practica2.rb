@@ -1,5 +1,5 @@
 puts "Ingrese un nombre"
-name = gets.chomp.to_s
+name = gets.chomp.to_s.capitalize
 
 case name
 when "Jose"
