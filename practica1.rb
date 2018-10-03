@@ -4,9 +4,9 @@ numero =  gets.chomp.to_i
 
 if numero % 2 == 0
   puts " El numero #{numero} es par"
-else if numero % 2 !=0
+elsif numero % 2 !=0
     puts "El numero #{numero} es impar"
-else
-  puts "No se cumplio ninguna condicion"
-  end
+  else
+    puts "No se cumplio ninguna condicion"
 end
+
